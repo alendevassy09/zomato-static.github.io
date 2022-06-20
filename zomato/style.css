@@ -16,6 +16,8 @@ body{
     position:absolute;
     display:flex ;
     width: 100%;
+    z-index: 1;
+    cursor: pointer;
 }
 .nav-item1{
     width: 50%;
