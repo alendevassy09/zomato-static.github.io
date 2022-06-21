@@ -35,6 +35,7 @@ body {
 }
 .item{
     padding: 20px;
+    cursor: pointer;
 }
 .first-body{
     display: flex;
