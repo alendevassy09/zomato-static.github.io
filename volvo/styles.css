@@ -2,9 +2,13 @@
     color:white;
     text-decoration: none;
 }
+.main-container{
+    height: 35rem;
+}
 .links:hover{
     color: white;
 }
+
 .header{
     
     background: url(https://www.volvo.com/content/dam/volvo-gateway/markets/volvo-gateway/banner-2400x720-new.jpg);
