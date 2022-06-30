@@ -15,17 +15,22 @@
 }
 .footer-links{
     
-    color: white
+    color: white;
+  
+}
+.Copyright{
+
+    font-size: xx-small;
 }
 .footer-links:hover{
 
     color: rgb(84, 87, 88);
 }
 
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
 
     .links {
         color:white;
     }
 
-}
+} */
